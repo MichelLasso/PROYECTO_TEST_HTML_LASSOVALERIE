@@ -1,21 +1,20 @@
 @font-face {
     font-family: bold;
-    src: url(myriad-pro/MYRIADPRO-BOLD.OTF);
+    src: url(fonts/MYRIADPRO-BOLD.OTF);
 }
 @font-face {
     font-family: light;
-    src: url(myriad-pro/MyriadPro-Light.otf);
+    src: url(fonts/MyriadPro-Light.otf);
 }
 @font-face {
-    font-family: regular;
-    src: url(myriad-pro/MYRIADPRO-REGULAR.OTF);
+    font-family: condensed;
+    src: url(fonts/MYRIADPRO-BOLDCONDIT.OTF);
 }
 
 .contenedorPrincipal{
     margin-top: -1vw;
     margin-left: -1vw;
 }
-
 .contenedor1{
     margin-top: 7vw;
     width: 100vw;
@@ -30,7 +29,7 @@
 }
 .menubar{
     margin-top: -7vw;
-    background-color: #3864cc;
+    background-color: #3266cc;
     width: 100vw;
     height: 9vw;
     position: fixed;
@@ -113,7 +112,7 @@
     width:10vw;
     height: 2.3vw;
     border-radius: 0.7vw;
-    background-color: #157FFB;
+    background-color: #157ffb;
     display: flex;
     align-items: center;
     justify-content: center;
@@ -172,15 +171,15 @@
 .cedula{
     border: 1px solid rgb(136, 136, 136);
     width: 25vw;
-    font-size: 1vw;
+    font-size: 0.8vw;
     height: 2vw;
     margin-top: -0.7vw;
-
+    color: rgb(136, 136, 136);
 }
 .textoIngresarDatos{
     color: black;
-    font-size: 1vw;
-    font-family: regular;
+    font-size: 0.8vw;
+    font-family: light;
 }
 .rectangulo{
     margin-top: -0.7vw;
@@ -326,7 +325,7 @@
 }
 .contenedor3TextoBold{
     font-size: 1.5vw;
-    font-family: bold;
+    font-family: condensed;
 }
 .rectanguloAzul{
     width: 67vw;
@@ -367,14 +366,14 @@
     width: 100vw;
     height: 8.5vw;
     text-align: center;
-    background-color:#3c64c3;
+    background-color:#3c67c5;
     display: flex;
 }
 .informacion{
     font-size: 1vw;
     font-family: light;
     color: white;
-    margin-left: 9vw;
+    margin-left: 11vw;
 }
 
 .location{
@@ -383,9 +382,9 @@
 }
 .footer{
     margin-left: 7vw;
-    width: 19vw;
-    height: 4vw;
-    margin-top: 2vw;
+    width: 15vw;
+    height: 3vw;
+    margin-top: 3vw;
 }
 .telefono{
     width: 1.5vw;
