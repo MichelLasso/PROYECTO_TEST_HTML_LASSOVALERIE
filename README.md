@@ -11,24 +11,24 @@ La página se divide en 4 partes:
 
 Estructura del proyecto 
 
-Carpeta img/: Imágenes usadas en la página web.
-Carpeta Fonts/: Tipos de fuentes usadas en la página web.
-Archivo index.html/: Archivo principal de esta página web.
-Archivo style.css/: Contiene los estilos de esta página web.
-Archivo README.md : Información de la estructura de la página.
+1.Carpeta img/: Imágenes usadas en la página web.
+2.Carpeta Fonts/: Tipos de fuentes usadas en la página web.
+3.Archivo index.html/: Archivo principal de esta página web.
+4.Archivo style.css/: Contiene los estilos de esta página web.
+5.Archivo README.md : Información de la estructura de la página.
 
 Características del diseño
 
-Responsivo: vw (viewport width). Se usó este tipo de medida para  adaptar la página web en varios dispositivos.
-Menú fijo: Está página web cuenta con un menú fijo donde se le facilitará al usuario la búsqueda según sea su interés.
-Imágenes: imágenes de los bancos de depósito y del logo del Gobierno Nacional.
-Fuentes personalizadas: La página cuenta con 3 tipos de fuentes personalizadas 
+1.Responsivo: vw (viewport width). Se usó este tipo de medida para  adaptar la página web en varios dispositivos.
+2.Menú fijo: Está página web cuenta con un menú fijo donde se le facilitará al usuario la búsqueda según sea su interés.
+3.Imágenes: imágenes de los bancos de depósito y del logo del Gobierno Nacional.
+4.Fuentes personalizadas: La página cuenta con 3 tipos de fuentes personalizadas 
 
 Tecnologías utilizas 
 
-HTML5
-CSS3 
-Tipos de fuentes:(Myriad Pro bold, Myriad Pro Regular, Myriad Pro Right)
+1.HTML5
+2.CSS3 
+3.Tipos de fuentes:(Myriad Pro bold, Myriad Pro Regular, Myriad Pro Right)
 
 Instrucciones de uso:
 
