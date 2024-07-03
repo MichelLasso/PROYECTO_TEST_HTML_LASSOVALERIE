@@ -10,6 +10,8 @@ La página se divide en 4 partes:
 4. Preguntas Frecuentes : preguntas y respuestas acerca del ingreso solidario
 
 Estructura del proyecto 
+
+
 ![Captura de pantalla 2024-07-03 085628](https://github.com/MichelLasso/PROYECTO_TEST_HTML_LASSOVALERIE/assets/165828539/34336eb5-fa8a-46c0-8591-f59dd2b9e9f7)
 
 1.Carpeta img/: Imágenes usadas en la página web.
