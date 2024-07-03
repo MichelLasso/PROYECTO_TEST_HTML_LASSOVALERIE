@@ -27,7 +27,6 @@
     display: flex;
     align-items: center;
     justify-content: space-around;
-    background-color: black;
 }
 .menubar{
     margin-top: -7vw;
@@ -314,6 +313,7 @@
     font-family: light;
     margin-left: 48.5vw;  
     margin-top: 2vw;  
+    overflow: hidden;
 }
 
 .contenedor3Textolight{
@@ -374,7 +374,7 @@
     font-size: 1vw;
     font-family: light;
     color: white;
-    margin-left: 13vw;
+    margin-left: 9vw;
 }
 
 .location{
@@ -382,12 +382,17 @@
     height: 2vw;
 }
 .footer{
-    margin-left: 5vw;
-    width: 15vw;
+    margin-left: 7vw;
+    width: 19vw;
     height: 4vw;
     margin-top: 2vw;
 }
 .telefono{
     width: 1.5vw;
     height: 2vw;
+}
+.num{
+    font-size: 1vw;
+    font-family: light;
+    margin: 0.7vw;
 }
