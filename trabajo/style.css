@@ -12,6 +12,9 @@
 }
 
 .contenedorPrincipal{
+    width: 100vw;
+    height: 271vw;
+    overflow: hidden;
     margin-top: -1vw;
     margin-left: -1vw;
 }
@@ -28,7 +31,6 @@
     justify-content: space-around;
 }
 .menubar{
-    margin-top: -7vw;
     background-color: #3266cc;
     width: 100vw;
     height: 9vw;
@@ -36,7 +38,6 @@
     display: flex;
     justify-content: space-around;
     align-items: center;
-    
 }
 .textoInicio{
     color: #fff;
@@ -145,9 +146,9 @@
     font-size: 3vw;
     font-family: light;
     margin-top: 4vw;
+    
 }
 .textoImg{
-    
     display: flex;
     width: 100vw;
     height: 38vw;
@@ -337,10 +338,11 @@
     align-items: center;
 }
 .texto2Contenedor3{
-    font-family: bold;
     color: white;
+    font-family: light;
     padding-top: 1vw;
     width: auto;
+    font-size: 2.9vw;
 }
 .texto3Contenedor3{
     font-family: light;
@@ -368,6 +370,7 @@
     text-align: center;
     background-color:#3c67c5;
     display: flex;
+    overflow: hidden;
 }
 .informacion{
     font-size: 1vw;
@@ -394,4 +397,228 @@
     font-size: 1vw;
     font-family: light;
     margin: 0.7vw;
+}
+.textCedula{
+    font-family: light;
+    font-size: 2vw;
+}
+.RedesSociales{
+    margin-top: 5.5vw;
+    margin-left: -10vw;
+}
+.logosRedes{
+    width: 2vw;
+    height: 1.5vw;
+}
+@media only screen and (min-width: 430px) {
+    .contenedor1 {
+        height: 160vw;
+        background-image: none;
+        flex-direction: column;
+        padding-bottom: 5vw;
+    }
+    .contenedorBlanco{
+        border: 1px solid rgb(136, 136, 136);
+        padding: 4vw;
+        width: 56vw;
+        height: 79vw;
+    }
+    .texto1blanco{
+        font-size: 4vw;
+    }
+    .texto1Contenedor2{
+        font-size: 4vw;
+        padding-top: 15vw;
+    }
+    .texto2blanco{
+        font-size: 1.6vw;
+    }
+    .textoIngresarDatos {
+        font-size: 1.6vw;
+    }
+    .rectangulo, .fecha{
+        width: 50vw;
+        height: 3vw;
+    }
+    .cedula{
+        width: 50vw;
+        height: 3vw;
+        font-size: 2vw;
+        font-family: light;
+    }
+    .botonAzul2{
+        width: 15vw;
+        height: 4vw;
+        margin-top: 5vw;
+        margin-left: 18vw;
+    }
+    .letraBotonAzul{
+        font-size: 1.6vw;
+    }
+    .contenedorTexto{
+        margin: 0;
+        width: 57vw;
+    }
+    .textoIngresoSolidario, .texto2Contenedor3{
+        font-size: 4vw;
+    }
+    .textoIngresoSolidario2, .textoImg1, .textoImg2{
+        font-size: 2vw;
+    }
+    .botonAzul{
+        width: 15vw;
+        height: 4vw;
+        margin-left: 21.5vw;
+    }
+    .contenedor2{
+        height: 110vw;
+        margin-top: -4vw;
+    }
+    .textoImg{
+        flex-direction: column;
+    }
+    .texto{
+        width: 100vw;
+        height: 50vw;
+    }
+    .flecha{
+        display: none;
+    }
+    .imagenContenedor2{
+        width: 70vw;
+        height: 70vw;
+        margin-top: 0.5vw;
+        margin-left: 15vw;
+    }
+    .contenedor3{
+        height: 120vw;
+    }
+    .texto1Contenedor3{
+        padding-top: 15vw;
+        font-size: 4vw;
+    }
+    .etapas123{
+        height: 22vw;
+        flex-direction: column;
+    }
+    .etapas{
+        margin-left: 0;
+        font-size: 2.5vw;
+        padding: 2vw;
+    }
+    .fechasEtapas{
+        flex-direction: column;
+        height: 22vw;
+        margin-top: -16vw;
+    }
+    .fechas, .fecha1, .fecha2{
+        padding: 2vw;
+        margin-left: 0;
+        font-size: 2.5vw;
+    }
+    .texto2Contenedor3{
+        height: 7vw;
+        margin-top: 20vw;
+        font-size: 4vw;
+    }
+    .bancos1{
+        height: 11vw;
+    }
+    .tiposBanco{
+        margin-left: 0vw;
+        width: 27vw;
+        height: 12vw;
+    }
+    .tiposBanco2{
+        width: 29vw;
+        height: 15vw;
+        margin-top: -3vw;
+    }
+    .tiposBanco3{
+        width: 30vw;
+        height: 9vw;
+    }
+    .bancos2{
+        height: 14vw;
+    }
+    .tiposBanco4{
+        margin-left: 26vw;
+        width: 19vw;
+        height: 6vw;
+    }
+    .tiposBanco5{
+        width: 19vw;
+        height: 13vw;
+        margin-left: 5vw;
+    }
+    .contenedor4{
+        height: 172vw;
+    }
+    .contenedor3Texto1{
+        padding-top: 15vw;
+        font-size: 4vw;
+    }
+    .CirculoAzul{
+        padding: 1vw;
+    }
+    .textoInicio, .letraBoton, .contenedor3TextoBold, .contenedor3Textolight{
+        font-size: 2.5vw;
+    }
+    .menubar{
+        height: 13vw;
+    }
+    .boton1{
+        margin-top: 1vw;
+        height: 4vw;
+    }
+    .rectanguloAzul{
+        margin-left: 7vw;
+        width: 90vw;
+        height: 22vw;
+    }
+    .texto3Contenedor3{
+        font-size: 2.5vw;
+        margin-top: -3vw;
+    }
+    .informacion{
+        width: 36vw;
+        margin-left: 0vw;
+        font-size: 2vw;
+    }
+    .contenedor5{
+        padding: 2vw;
+        height: 19vw;
+    }
+    .footer{
+        margin-right: 4vw;
+        margin-left: 3vw;
+        margin-top: 7.5vw;
+        width: 26vw;
+        height: 5vw;
+    }
+    .RedesSociales{
+        margin-right: 2vw;
+        width: 17vw;
+        margin-top: 12vw;
+        margin-left: -24vw;
+    }
+    .logosRedes{
+        width: 3vw;
+        height: 3vw;
+    }
+    .location{
+        width: 2vw;
+        height: 2.5vw;
+    }
+    .telefono{
+        width: 2.5vw;
+        height: 2.5vw;
+    }
+    .contenedorPrincipal{
+        height: 649vw;
+    }
+    .logo{
+        width: 20vw;
+        height: 6vw;
+    }
 }
