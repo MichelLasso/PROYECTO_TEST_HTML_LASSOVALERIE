@@ -29,9 +29,9 @@ La página se divide en 4 partes:
 
 ## Tecnologías utilizas 
 
-1.HTML5
-2.CSS3 
-3.Tipos de fuentes:(Myriad Pro bold, Myriad Pro Regular, Myriad Pro Right)
+1. HTML5
+2. CSS3 
+3. Tipos de fuentes:(Myriad Pro bold, Myriad Pro Regular, Myriad Pro Right)
 
 ## Instrucciones de uso:
 
