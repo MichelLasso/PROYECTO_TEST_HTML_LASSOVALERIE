@@ -14,11 +14,11 @@ La página se divide en 4 partes:
 
 ![Captura de pantalla 2024-07-03 085628](https://github.com/MichelLasso/PROYECTO_TEST_HTML_LASSOVALERIE/assets/165828539/34336eb5-fa8a-46c0-8591-f59dd2b9e9f7)
 
-1.Carpeta ```img/```: Imágenes usadas en la página web.
-2.Carpeta ```Fonts/```: Tipos de fuentes usadas en la página web.
-3.Archivo ```index.html/```: Archivo principal de esta página web.
-4.Archivo ```style.css/```: Contiene los estilos de esta página web.
-5.Archivo ```README.md``` : Información de la estructura de la página.
+1. Carpeta ```img/```: Imágenes usadas en la página web.
+2. Carpeta ```Fonts/```: Tipos de fuentes usadas en la página web.
+3. Archivo ```index.html/```: Archivo principal de esta página web.
+4. Archivo ```style.css/```: Contiene los estilos de esta página web.
+5. Archivo ```README.md``` : Información de la estructura de la página.
 
 ## Características del diseño
 
@@ -33,10 +33,13 @@ La página se divide en 4 partes:
 2.CSS3 
 3.Tipos de fuentes:(Myriad Pro bold, Myriad Pro Regular, Myriad Pro Right)
 
-Instrucciones de uso:
+## Instrucciones de uso:
 
-Clona este repositorio o descarga los archivos y las carpetas que hallan.
-Busca un navegador que sea compatible y abre el archivo index.html.
+1. Clona el repositorio: Utiliza el comando "git clone" seguido de la URL del repositorio para clonar el proyecto en tu computadora local.
 
-Créditos
+2. Abre la carpeta del proyecto: Navega a la carpeta donde se clonó el proyecto y ábrela en tu editor de código favorito.
+
+3. Abre el archivo HTML: Busca el archivo HTML principal (usualmente "index.html") y ábrelo en tu navegador web.
+
+### Créditos
 La página web fue realizada por Valerie Michel Lasso Lizcano para practicar temas  vistos en clase de html y css.
